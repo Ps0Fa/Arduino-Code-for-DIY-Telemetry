@@ -1,0 +1,138 @@
+﻿0 // LeanAngle - Default Position
+0 // Whellie - Default Position
+680 // TPS - Max Gauss
+320 // TPS - Min Gauss
+690 // BRK - Max Gauss
+291 // BRK - Min Gauss
+15 // Confidence Turn
+30 // Average Turn
+45 // Aggressive Turn
+2 // GMT + 2 For Greece (Time)
+GSXR1000R //Bike Name (File Name)
+WEBst // Track Name
+37.977431 // track Location lan
+23.743369 // track Location lot
+0.025 // range ~ 2.5km (0.01 KM, 0.0001 M), https://www.mapdevelopers.com/draw-circle-tool.php
+37.975551 // Start UP lan meta ti koumpari pros webst
+23.7406956 // Start UP lot meta ti koumpari pros webst
+37.9756314 // Finish Down lan prin ti koumpari pros sintagma
+23.7401699 // Finish Down lot prin ti koumpari pros sintagma
+37.977289 // Start Down lan meta ti petraki apo webst (pio konta sto sintagma)
+23.7507753 // Start Down lot meta ti petraki apo webst (pio konta sto sintagma)
+37.9775131 // Finish UP lan prin ti petraki apo webst (pio konta sti webst)
+23.7512099 // Finish UP lot prin ti petraki apo webst (pio konta sti webst)
+0.0002 // range points (26m range prepei sti mesi tis diastaurosis na mou to dosei to finish toulaxiston)
+37.9753607 // Lat split 1 (irodou attikou sti mesi tou dromou)
+23.7430904 // Lon split 1 (irodou attikou sti mesi tou dromou)
+37.9762403 // Lat split 2 (sti mesi tis marasli)
+23.7470708 // Lon split 2 (sti mesi tis marasli)
+0.0002 // Split Rad
+Megara // Track Name
+37.9871661 // track Location lan
+23.3635788 // track Location lot
+0.025 // range ~ 2.5km (0.01 KM, 0.0001 M), https://www.mapdevelopers.com/draw-circle-tool.php
+37.9870086 // Start (meta ti grammi ekinisis)
+23.3630107 // Start (meta ti grammi ekinisis)
+37.9869621 // Finish (prin ti grammi ekinisis)
+23.3627908 // Finish (prin ti grammi ekinisis)
+37.9870086 // Start (meta ti grammi ekinisis)  Prepei na einai idia me ta apo pano
+23.3630107 // Start (meta ti grammi ekinisis)  Prepei na einai idia me ta apo pano
+37.9869621 // Finish (prin ti grammi ekinisis)  Prepei na einai idia me ta apo pano
+23.3627908 // Finish (prin ti grammi ekinisis)  Prepei na einai idia me ta apo pano
+0.0001 // range points
+37.9873257 // Lat split 1 (me aktina akrivos meta to curb tis K4)
+23.3603771 // Lon split 1 (me aktina akrivos meta to curb tis K4)
+37.9873247 // Lat split 2 (me aktina akrivos meta to curb tis K6, to petalo oxi to gama)
+23.365778 // Lon split 2 (me aktina akrivos meta to curb tis K6, to petalo oxi to gama)
+0.0001 // Split Rad
+Penteli // Track Name
+38.0710687 // track Location lan
+23.9154206 // track Location lot
+0.002 // range ~ 2.5km (0.01 KM, 0.0001 M), https://www.mapdevelopers.com/draw-circle-tool.php
+38.0655782 // Start UP lat pano sti proti kampi mexri ti grigori aristeri
+23.908057 // Start UP lon pano sti proti kampi mexri ti grigori aristeri
+38.0660575 // Finish Down lat meta ta peuka ekinisis
+23.9068236 // Finish Down lon meta ta peuka ekinisis
+38.0712701 // Start Down lat prin ti katw tampela apo pigi
+23.9318729 // Start Down lon prin ti katw tampela apo pigi
+38.0709829 // Finish UP lat konta ston agio petro meta ti tampela
+23.9331953 // Finish UP lon konta ston agio petro meta ti tampela
+0.0006 // range points (26m range prepei sti mesi tis diastaurosis na mou to dosei to finish toulaxiston)
+38.0703336 // Lat split 1 (irodou attikou sti mesi tou dromou)
+23.9174905 // Lon split 1 (irodou attikou sti mesi tou dromou)
+38.0718708 // Lat split 2 (sti mesi tis marasli)
+23.9240351 // Lon split 2 (sti mesi tis marasli)
+0.0006 // Split Rad
+Epidaurus // Track Name
+37.6417622 //Μεγάλος κύκλος επιδάυρου ακτίνα 1500m
+23.1406484 //Μεγάλος κύκλος επιδάυρου ακτίνα 1500m
+0.015 //Μεγάλος κύκλος επιδάυρου ειδικός κύκλος για να μη μπαίνει μέσα στο tunnel
+37.6440347 //κύκλος εκίνησης κοντά στο stork από αθήνα 2ος //ακτίνα 30m
+23.1520435 //κύκλος εκίνησης κοντά στο stork από αθήνα 2ος //ακτίνα 30m
+37.6444807 //κύκλος εκίνησης κοντά στο stork από αθήνα 1ος //ακτίνα 30m
+23.1524264 //κύκλος εκίνησης κοντά στο stork από αθήνα 1ος //ακτίνα 30m
+37.6330537 //κύκλος εκίνησης κοντά στην κάτω ευθεία stork από αθήνα 3ος //ακτίνα 30m
+23.1368103 //κύκλος εκίνησης κοντά στην κάτω ευθεία stork από αθήνα 3ος //ακτίνα 30m
+37.6330218 //κύκλος εκίνησης κοντά στην κάτω ευθεία stork από αθήνα 4ος //ακτίνα 30m
+23.1361237 //κύκλος εκίνησης κοντά στην κάτω ευθεία stork από αθήνα 4ος //ακτίνα 30m
+0.0003 // ακτίνα 30m
+37.6413204 //κύκλος split από αθήνα 1ο //ακτίνα 60m
+23.1504699 //κύκλος split από αθήνα 1ο //ακτίνα 60m
+37.6377182 //κύκλος split από αθήνα 2ο //ακτίνα 60m
+23.1473156 //κύκλος split από αθήνα 2ο //ακτίνα 60m
+0.0006 //κύκλος split από αθήνα 2ο //ακτίνα 60m
+Tunnel // Track Name
+37.6061403 //Μεγάλος κύκλος tunnel ακτίνα 2000m
+23.1714615 //Μεγάλος κύκλος tunnel ακτίνα 2000m
+0.02 //Μεγάλος κύκλος tunnel ακτίνα 2000m
+37.6111123 //κύκλος εκίνησης κοντά στη δυχάλα από αθήνα 2ος //ακτίνα 30m
+23.1527327 //κύκλος εκίνησης κοντά στη δυχάλα από αθήνα 2ος //ακτίνα 30m
+37.6114098 //κύκλος εκίνησης κοντά στη δυχάλα από αθήνα 1ος //ακτίνα 30m
+23.1521426 //κύκλος εκίνησης κοντά στη δυχάλα από αθήνα 1ος //ακτίνα 30m
+37.6022345 //κύκλος εκίνησης κοντά στο tunnel από αθήνα 3ος //ακτίνα 30m
+23.1883841 //κύκλος εκίνησης κοντά στο tunnel από αθήνα 3ος //ακτίνα 30m
+37.602005 //κύκλος εκίνησης κοντά στο tunnel από αθήνα 4ος //ακτίνα 30m
+23.1890171 //κύκλος εκίνησης κοντά στο tunnel από αθήνα 4ος //ακτίνα 30m
+0.0003 // range points
+37.6066672 //κύκλος split από αθήνα 1ο //ακτίνα 60m
+23.1608896 //κύκλος split από αθήνα 1ο //ακτίνα 60m
+37.609353 //κύκλος split από αθήνα 2ο //ακτίνα 60m
+23.1688289 //κύκλος split από αθήνα 2ο //ακτίνα 60m
+0.0006 // Split Rad
+WEBst // Track Name
+0 // track Location lan
+0 // track Location lot
+0 // range ~ 2.5km (0.01 KM, 0.0001 M), https://www.mapdevelopers.com/draw-circle-tool.php
+0 // Start lan vangleis mos apo spiti
+0 // Start lot vangleis mos apo spiti
+0 // Finish lan gonia agiou thoma apo spiti
+0 // Finish lot gonia agiou thoma apo spiti
+0 // Start lan apo webst sinopis
+0 // Start lot apo webst sinopis
+0 // Finish lan vangelis mos apo webst
+0 // Finish lot vangelis mos apo webst
+0 // range points
+0 // Lat split 1
+0 // Lon split 1
+0 // Lat split 2
+0 // Lon split 2
+0 // Split Rad
+WEBst // Track Name
+0 // track Location lan
+0 // track Location lot
+0 // range ~ 2.5km (0.01 KM, 0.0001 M), https://www.mapdevelopers.com/draw-circle-tool.php
+0 // Start lan vangleis mos apo spiti
+0 // Start lot vangleis mos apo spiti
+0 // Finish lan gonia agiou thoma apo spiti
+0 // Finish lot gonia agiou thoma apo spiti
+0 // Start lan apo webst sinopis
+0 // Start lot apo webst sinopis
+0 // Finish lan vangelis mos apo webst
+0 // Finish lot vangelis mos apo webst
+0 // range points
+0 // Lat split 1
+0 // Lon split 1
+0 // Lat split 2
+0 // Lon split 2
+0 // Split Rad
+//comments-------------
